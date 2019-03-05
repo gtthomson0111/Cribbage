@@ -1,0 +1,7 @@
+C:\Users\gtthomson\Desktop\Cribbage\Cribbage\Cribbage\bin\Debug\Cribbage.exe.config
+C:\Users\gtthomson\Desktop\Cribbage\Cribbage\Cribbage\bin\Debug\Cribbage.exe
+C:\Users\gtthomson\Desktop\Cribbage\Cribbage\Cribbage\bin\Debug\Cribbage.pdb
+C:\Users\gtthomson\Desktop\Cribbage\Cribbage\Cribbage\obj\Debug\Cribbage.exe
+C:\Users\gtthomson\Desktop\Cribbage\Cribbage\Cribbage\obj\Debug\Cribbage.pdb
+C:\Users\gtthomson\Desktop\Cribbage\Cribbage\Cribbage\obj\Debug\Cribbage.csprojAssemblyReference.cache
+C:\Users\gtthomson\Desktop\Cribbage\Cribbage\Cribbage\obj\Debug\Cribbage.csproj.CoreCompileInputs.cache
